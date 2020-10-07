@@ -1,0 +1,46 @@
+
+/*------------ Custom CSS-------------*/
+.custom-title{
+	color: #069;
+	font-size: 34px;
+	text-transform: uppercase;
+	margin-left:-394px;
+	}
+.custom-topbar{
+	padding: 1rem;
+	background-color: #bf9a1245;
+}
+.custom-navbar{
+	background-color: #288fce;
+	color: #fff;
+	border-radius: 0;
+	border: transparent;
+}
+.custom-navbar li a{
+	color: #fff !important;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.custom-navbar li a:hover{
+	background-color: rgba(0,0,0,0.575) !important;
+}
+.container-fluid {
+padding-left: 426px;
+
+}
+
+.row {
+    margin-right: -20px;
+    margin-left: -15px;
+}
+.contact{
+	background-color:#CCE5FF; 
+}
+.jumbotron{
+	background-color: #FFCCE5;
+}
+.footer{
+	background-color: #CCFFCC;
+}
+}
+}
